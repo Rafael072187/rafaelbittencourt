@@ -6,24 +6,6 @@ No meu dia a dia gosto de transformar tarefas repetitivas em fluxos automatizado
 
 Meu objetivo é crescer como desenvolvedor, contribuir com soluções eficientes e continuar evoluindo em equipes que buscam inovação e impacto real.
 
-Python
-Automação de Processos
-N8N
-APIs REST
-FastAPI
-Django
-Pandas
-Numpy
-Selenium
-PyAutoGUI
-Matplotlib
-Seaborn
-Git
-Docker
-Heroku
-Pytest
-Unittest
-BeautifulSoup
-Requests
+Python, Automação de Processos, N8N, APIs REST, FastAPI, Django, Pandas, Numpy, Selenium, PyAutoGUI, Matplotlib, Seaborn, Git, Docker, Heroku, Pytest, Unittest, BeautifulSoup, Requests
 
 🔗 Conheça meu LinkedIn: [linkedin.com/in/rafael-bittencourt-4b735a358](https://www.linkedin.com/in/rafael-bittencourt-4b735a358)
