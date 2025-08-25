@@ -1,11 +1,29 @@
 ### Olá! Eu sou Rafael Bittencourt 👋
 
-Sou estudante autodidata em desenvolvimento com foco em Python.  
-Gosto de automatizar tarefas, desenvolver APIs e explorar dados de forma prática.
+Olá, meu nome é Rafael Bittencourt, sou desenvolvedor Python com foco em automação de processos, APIs REST e análise de dados. Desde 2024 venho construindo projetos que aplicam esses conhecimentos na prática, criando soluções para coleta, organização e visualização de informações.
 
-📌 Estudando desde 2024 e aplicando em projetos pessoais.  
-🛠️ Tecnologias: Python, FastAPI, Pandas, Selenium, Git  
-📚 Sempre aprendendo e melhorando.  
-🚀 Em busca da minha primeira oportunidade profissional na área tech.
+No meu dia a dia gosto de transformar tarefas repetitivas em fluxos automatizados, desenvolver APIs funcionais e explorar dados para gerar insights. Já trabalhei em projetos pessoais e autônomos utilizando FastAPI, Django, Pandas, Numpy, Selenium, Matplotlib, Seaborn, Pytest e Git.
+
+Meu objetivo é crescer como desenvolvedor, contribuir com soluções eficientes e continuar evoluindo em equipes que buscam inovação e impacto real.
+
+Python
+Automação de Processos
+N8N
+APIs REST
+FastAPI
+Django
+Pandas
+Numpy
+Selenium
+PyAutoGUI
+Matplotlib
+Seaborn
+Git
+Docker
+Heroku
+Pytest
+Unittest
+BeautifulSoup
+Requests
 
 🔗 Conheça meu LinkedIn: [linkedin.com/in/rafael-bittencourt-4b735a358](https://www.linkedin.com/in/rafael-bittencourt-4b735a358)
